@@ -1,57 +1,71 @@
-# Olá, sou o Robson! 👋
+<div align="center">
+  
+# 🕹️ [ROBSON :: PROFILE_TERMINAL] 🕹️
+  
+`EST. 19XX // PAI // MARIDO // PROFESSOR // MAKER // DEVOPS ASPIRANT`
 
-### 👨‍💻 Professor de TI | Especialista em Infraestrutura | Aspirante a DevOps & Cybersecurity
+<img src="https://img.shields.io/badge/Made%20in-The%2090s-yellow?style=for-the-badge&logo=retroarch&logoColor=black" alt="Made in the 90s">
+<img src="https://img.shields.io/badge/Status-Family%20First-red?style=for-the-badge&logo=heart&logoColor=white" alt="Family First">
 
----
-
-## 🚀 Sobre Mim
-Sou um profissional movido pela tecnologia, com um pé na **Educação** e outro na **Automação**. Atualmente, estou em uma jornada intensiva para consolidar conhecimentos em **DevOps** (Cloud, Kubernetes, IaC) e **Segurança Ofensiva (DCPT)**.
-
-> **Minha maior motivação?** Minha família. Acredito que a tecnologia deve servir para construir um futuro melhor para as pessoas que amamos. Pai orgulhoso, hobbista em marcenaria e entusiasta do "faça você mesmo".
-
----
-
-## 🛠️ No que estou focado agora:
-* ☁️ **Cloud & DevOps:** Migrando e automatizando infraestruturas na AWS.
-* 🛡️ **Cybersecurity:** Laboratórios de Pentest e Forense Digital.
-* 🎓 **Educação:** Ensinando Matemática e Educação Financeira com foco prático.
+<br>
 
 ---
 
-## 🧰 Stack & Ferramentas
+<img src="https://raw.githubusercontent.com/m4tt72/m4tt72/master/prompt.gif" alt="Terminal Prompt" width="400">
 
-### ☁️ DevOps & Infra
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### 🛡️ Cybersecurity & Networks
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![MikroTik](https://img.shields.io/badge/MikroTik-EE1F25?style=for-the-badge&logo=mikrotik&logoColor=white)
+### "A tecnologia avança, os valores permanecem."
 
 ---
 
-## 🎨 Hobbies & Interesses (Além do Código)
-* 🪚 **Marcenaria & Eletrônica:** Criando coisas do zero.
-* 🚗 **Mecânica:** Entendendo como as máquinas funcionam por baixo do capô.
-* 🎥 **Cultura Pop:** Fã de Star Wars, De Volta para o Futuro e um bom churrasco.
+</div>
+
+## 👨‍👩‍👦‍👦 Meus Guris, Minha Esposa, Minha Base
+Minha maior e mais importante missão não tem código, tem abraços. Tudo o que construo e aprendo é dedicado à minha família. Sou um pai orgulhoso e um marido realizado, que acredita que o lar é o nosso projeto mais valioso.
+
+<br>
+
+## 🛠️ Stack Tecnológica (O "Arroz com Feijão" da Automação)
+Focado no alicerce sólido que as empresas pedem, sem inventar moda, apenas eficiência.
+
+| Tecnologia | O que estou fazendo |
+| :--- | :--- |
+| <img src="https://skillicons.dev/icons?i=linux" height="30"> **Linux** | Onde tudo acontece. Linuxtips mode ON. |
+| <img src="https://skillicons.dev/icons?i=docker" height="30"> **Docker** | Empacotando tudo (Step 1 do nosso plano!). |
+| <img src="https://skillicons.dev/icons?i=kubernetes" height="30"> **Kubernetes** | Orquestrando o caos. |
+| <img src="https://skillicons.dev/icons?i=aws" height="30"> **AWS** | Nuvem onde meus labs rodam (Free Tier). |
+| <img src="https://skillicons.dev/icons?i=terraform" height="30"> **Terraform** | IaC: Infraestrutura como Código. |
+| <img src="https://skillicons.dev/icons?i=networks" height="30"> **MikroTik** | Redes de verdade, sem clicar em botão. |
+
+<br>
+
+## 🎮 Hobbies & Paixões (Modo Retro ON)
+Quando o terminal fecha, a nostalgia e a criatividade tomam conta.
+
+* 🕹️ **Retrogame:** Colecionando e jogando os clássicos dos anos 90. SNES, Mega Drive, PS1.
+* 👨‍🍳 **Confeitaria:** A arte de seguir a "receita" e criar algo doce (e exato!).
+* 🎸 **Música Instrumental:** Fã de trilhas sonoras complexas e bem executadas.
+* 🎹 **Baixo & Teclado:** Groovando e criando harmonias nas horas vagas.
+* 🪚 **Maker/Marcenaria:** Construindo com as mãos, do eletrônico ao móvel.
+
+<br>
+
+## 🐍 Minha Jornada em Movimento
+<div align="center">
+  <img src="https://raw.githubusercontent.com/robmartis/robmartis/output/github-contribution-grid-snake.svg" alt="Github Snake Game" />
+</div>
+
+<br>
+
+## 📫 Estabelecer Conexão
+<div align="center">
+
+<a href="SEU_LINK_DO_LINKEDIN_AQUI">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:SEU_EMAIL_AQUI">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
 
 ---
-
-## 📈 Estatísticas
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robmartis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robmartis&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
-
----
-
-## 📫 Vamos nos conectar?
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN_AQUI)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL_AQUI)
-
----
-*“A educação é a arma mais poderosa que você pode usar para mudar o mundo.”*
+*“Respeite o passado, automatize o futuro.”*
+</div>
